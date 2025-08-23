@@ -1,0 +1,24 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{470643ec-8391-45e6-aa0d-6464ca4f287d}") = "MorePlanning", "MorePlanning\MorePlanning.csproj", "{97ff7d03-5015-4301-859b-11d23cee0de2]}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97ff7d03-5015-4301-859b-11d23cee0de2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97ff7d03-5015-4301-859b-11d23cee0de2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97ff7d03-5015-4301-859b-11d23cee0de2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97ff7d03-5015-4301-859b-11d23cee0de2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {96f39833-e02d-4357-b65f-fb11e44ca31c}
+	EndGlobalSection
+EndGlobal

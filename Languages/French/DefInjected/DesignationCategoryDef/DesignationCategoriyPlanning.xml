@@ -1,7 +1,5 @@
-﻿<?xml version = "1.0" encoding = "utf-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <LanguageData>
-
-<Planning.label>Planification</Planning.label>
-<Planning.description>Plus d'options de planification.</Planning.description>
-
+  <Planning.label>Planification</Planning.label>
+  <Planning.description>Plus d'options de planification.</Planning.description>
 </LanguageData>

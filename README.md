@@ -1,61 +1,53 @@
-# MorePlanning
+# [More Planning (Continued)]()
+
+![Image](https://i.imgur.com/buuPQel.png)
 
-More Planning is a RimWorld mod that creates a new option in the "Architect" menu, called "Planning", with more options for planning.
-                                     
-Features:
-- 10 customizable planning designations;
-- Show/hide planning designations;
-- Control planning opacity;
-- Cut/copy/paste planning designations;
-- An option for control if planning designations should be removed when something is built or deconstructed on top of it.
-- Holding shift you can override others planning designations.
+Update of Alan Dariva, Usagireis mod https://steamcommunity.com/sharedfiles/filedetails/?id=2551225702
 
-[More Planning - RimWorld Forum Topic](https://ludeon.com/forums/index.php?topic=31045.0)
+![Image](https://i.imgur.com/pufA0kM.png)
+	
+![Image](https://i.imgur.com/Z4GOv8H.png)
 
-[More Planning - Steam Workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=881100382)
+For 1.3 ~ 1.5
 
-![Alt Text](https://raw.githubusercontent.com/alandariva/RimworldMorePlanning/master/doc/screen.png)
+1.1 / 1.2 Version: https://steamcommunity.com/sharedfiles/filedetails/?id=881100382
 
-## Features
-- Blue, red, green and yellow planning designations;
-- Show/hide planning designations;
-- Control planning opacity;
-- Cut/copy/paste planning designations;
-- An option for control if planning designations should be removed when something is built or deconstructed on top of it.
-- Holding shift you can override others planning designations.
 
-**This mod uses HugsLib and Harmony**
 
-## Contributors
-- 53N4 - Spanish translation
-- Dango998 - Chinese Simplified translation
-- alextd - Option to reverse shift key usage
-- mike-ovch - Russian translation
-- Fuitad - French translation
+- **WILL NOT WORK ON 1.1/1.2**
+- **UNSUBSCRIBE FROM THE 1.1/1.2 VERSION IF RUNNING ON 1.3+**
 
-## Building
 
-### Stantard way
 
-- Copy Assembly-CSharp.dll and UnityEngine.dll from RimWorldWin_Data/Managed/ folder to Source/MorePlanning/Library/
-- Copy HugsLib.dll and 0Harmony.dll to Source/MorePlanning/Library
+---
 
-Compile the C# project Source/MorePlanning.
+        This mod creates a new option in the "Architect" menu, called "Planning", with more options for planning.
 
-If you want to generate only the release files, use the semi-automated build or take a look at Gruntfile.js
+        Features:
+        - 10 customizable planning designations;
+        - Show/hide planning designations;
+        - Control planning opacity;
+        - Cut/copy/paste planning designations;
+        - An option for control if planning designations should be removed when something is built or deconstructed on top of it.
+        - Holding shift you can override others planning designations.
 
-### Semi-automated (Windows)
+        **This mod uses HugsLib and Harmony.**
 
-This method uses grunt to automate the build process. To setup:
+        Contributors:
+        - 53N4 - Spanish translation
+        - Dango998 - Chinese Simplified translation
+        - alextd - Option to reverse shift key usage
 
-- Install HugsLib
-- Install node v8+
-- Clone this repository inside mod folders. The name of the folder should not be MorePlanning.
-- Run `npm install`
-  - This will install required libs to execute build process.
-- Run `node node_modules/grunt/bin/grunt setup`
-  - This will copy dlls for modding from game folder
+![Image](https://i.imgur.com/PwoNOj4.png)
 
-Finally, use `node node_modules/grunt/bin/grunt build` to build the mod.
 
-`node node_modules/grunt/bin/grunt build-dist` can be used to create a folder called MorePlanning just with files needed to be released.
+
+-  See if the error persists if you just have this mod and its requirements active.
+-  If not, try adding your other mods until it happens again.
+-  Post your error-log using the [Log Uploader](https://steamcommunity.com/sharedfiles/filedetails/?id=2873415404) and command Ctrl+F12
+-  For best support, please use the Discord-channel for error-reporting.
+-  Do not report errors by making a discussion-thread, I get no notification of that.
+-  If you have the solution for a problem, please post it to the GitHub repository.
+-  Use [RimSort](https://github.com/RimSort/RimSort/releases/latest) to sort your mods
+
+
