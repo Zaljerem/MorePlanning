@@ -32,6 +32,7 @@ public class OpacityCommand : BaseCommand
                     delegate
                     {
                         MorePlanningMod.Instance.Settings.PlanOpacity = value1;
+                        MorePlanningMod.Instance.WriteSettings();
                         UpdateLabel(value1);
                     }));
         }

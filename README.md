@@ -4,6 +4,8 @@
 
 Update of Alan Dariva, Usagireis mod https://steamcommunity.com/sharedfiles/filedetails/?id=2551225702
 
+- As of 1.6 the mod no longer needs HugsLib, thanks to Zaljerem!
+
 ![Image](https://img.litet.net/logos/Notice.png)
 	
 ![Image](https://img.litet.net/logos/OriginalDescription.png)

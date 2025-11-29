@@ -69,6 +69,8 @@
   <description>[img]https://img.litet.net/logos/Info.png[/img]
 Update of Alan Dariva, Usagireis mod https://steamcommunity.com/sharedfiles/filedetails/?id=2551225702
 
+- As of 1.6 the mod no longer needs HugsLib, thanks to Zaljerem!
+
 [img]https://img.litet.net/logos/Notice.png[/img]
 
 [table]
@@ -111,5 +113,5 @@ Update of Alan Dariva, Usagireis mod https://steamcommunity.com/sharedfiles/file
 [/list] 
 
 [url=https://steamcommunity.com/sharedfiles/filedetails/changelog/3554743746][img]https://img.shields.io/github/v/release/emipa606/MorePlanning?label=latest%20version&amp;style=plastic&amp;color=9f1111&amp;labelColor=black[/img][/url] | tags:  planning options</description>
-  <modVersion IgnoreIfNoMatchingField="True">1.6.3</modVersion>
+  <modVersion IgnoreIfNoMatchingField="True">1.6.4</modVersion>
 </ModMetaData>
